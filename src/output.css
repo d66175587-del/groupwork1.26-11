@@ -363,6 +363,9 @@
   .p-32 {
     padding: calc(var(--spacing) * 32);
   }
+  .p-44 {
+    padding: calc(var(--spacing) * 44);
+  }
   .p-48 {
     padding: calc(var(--spacing) * 48);
   }
